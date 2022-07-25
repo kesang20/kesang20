@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kesang20
-- 👀 I’m interested in learning full stack react/js 
-- 🌱 I’m currently learning html, CSS, and JS
-- 💞️ I’m looking to break into the software development industry 
+- 👀 I'm a fullstack engineer 
+- 🌱 Tech stacks: HTML, CSS, JS, NodeJS, React, Express, MYSQL, MongoDB
+- 🌱 Currently wokring on personal fullstack projects with Hack Reactor 
+- 💞️ I’m looking for a job as a fullstack or back end Engineer 
 - 📫 How to reach : kesangdingtsa@gmail.com
 
 <!---
